@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pelanggan
+comment1.params=idPelanggan\ nama\ kontak
+comment1.target=Pelanggan(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getIdPelanggan()
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=java.lang.String\ getKontak()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Transaksi
+comment1.params=idTransaksi\ tanggal\ pelanggan\ pegawai
+comment1.target=Transaksi(java.lang.String,\ java.util.Date,\ Pelanggan,\ Pegawai)
+comment2.params=barang\ jumlah
+comment2.target=void\ tambahBarang(Barang,\ int)
+comment3.params=barang
+comment3.target=void\ hapusBarang(Barang)
+comment4.params=
+comment4.target=double\ hitungTotalHarga()
+comment5.params=
+comment5.target=void\ printTransaksi()
+numComments=6

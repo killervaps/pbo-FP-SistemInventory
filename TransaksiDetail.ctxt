@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TransaksiDetail
+comment1.params=barang\ jumlah
+comment1.target=TransaksiDetail(Barang,\ int)
+comment2.params=
+comment2.target=Barang\ getBarang()
+comment3.params=
+comment3.target=int\ getJumlah()
+comment4.params=jumlah
+comment4.target=void\ setJumlah(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pegawai
+comment1.params=idPegawai\ nama\ username\ password
+comment1.target=Pegawai(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=inputUsername\ inputPassword
+comment2.target=boolean\ login(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment4.params=
+comment4.target=java.lang.String\ getIdPegawai()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
